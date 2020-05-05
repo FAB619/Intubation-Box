@@ -32,15 +32,9 @@ The Intubation Box works by sitting over the head and shoulders of a Covid-19 pa
 
 <div class="wp-block-image"><figure class="aligncenter size-large"><a href="http://tobiasartz.wpengine.com/wp-content/uploads/2020/03/Intubation_Box.pdf"><img src="https://intubationbox.com/wp-content/uploads/2020/03/make-your-own-intubation-box.jpg" alt="Make your own open source intubation box design plan" class="wp-image-56" srcset="https://intubationbox.com/wp-content/uploads/2020/03/make-your-own-intubation-box.jpg 800w, https://intubationbox.com/wp-content/uploads/2020/03/make-your-own-intubation-box-300x106.jpg 300w, https://intubationbox.com/wp-content/uploads/2020/03/make-your-own-intubation-box-768x272.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Make your own open source intubation box design plan</figcaption></figure></div>
 
-In order to increase the production rate of these visor masks, a reflection was carried out to choose the optimal manufacturing process. The team in charge of this project opted for plastic injection manufacturing. We are aiming to manufacture 10,000 additional pieces. A first injection mold was designed and manufactured by the means of ENIM.
+After each intubation, the box can be cleaned with a bleach or alcohol solution. Ie. Sani-Cloth wipes.
 
-<div class="column">
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/2.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/3.jpg" style="width:225px;height:300px;" />
-</div>
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/7.jpg">
 
 
 <h2 id="gallery">Gallery</h2>
@@ -48,25 +42,25 @@ In order to increase the production rate of these visor masks, a reflection was 
 <hr />
 <div class="row">
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/Sousse.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/Kesrine.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/farhatHached.png" style="width:225px;height:300px;" />
+    <img src="/Intubation-Box/assets/Media/1.jpg" style="width:225px;height:300px;" />
+    <img src="/Intubation-Box/assets/Media/2.jpg" style="width:225px;height:300px;" />
+    <img src="/Intubation-Box/assets/Media/3.jpg" style="width:225px;height:300px;" />
   </div>
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/5.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg" style="width:225px;height:300px;" />
+    <img src="/Intubation-Box/assets/Media/4.jpg" style="width:225px;height:300px;" />
+    <img src="/Intubation-Box/assets/Media/5.jpg" style="width:225px;height:300px;" />
+    <img src="/Intubation-Box/assets/Media/6.jpg" style="width:225px;height:300px;" />
   </div>
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/10.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/15.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/9.jpg" style="width:225px;height:300px;" />
+    <img src="/Intubation-Box/assets/Media/7.jpg" style="width:225px;height:300px;" />
+    <img src="/Intubation-Box/assets/Media/8.jpg" style="width:225px;height:300px;" />
+
   </div>
 </div>
 
 # Documentation and Files
 <hr />
-All of our design [documentation](https://github.com/FAB619/ENIM_Face_Shield_Injection_Molding) and [download files](https://github.com/FAB619/ENIM_Face_Shield_Injection_Molding/tree/master/Files) are available open-source on GitHub. Pull requests are encouraged!
+All of our design [documentation](https://github.com/FAB619/Intubation-Box) and [download files](https://github.com/FAB619/ENIM_Face_Shield_Injection_Molding/tree/master/Files) are available open-source on GitHub. Pull requests are encouraged!
 
 Issues / Feature Requests: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an Issue to one of our GitHub repositories! Thank you!
 

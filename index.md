@@ -74,5 +74,10 @@ This Project was entirely done by ENIM students and proffessors with the help of
 FAB619 is only the documentation author. The project belongs to ENIM - École nationale d'ingénieurs de Monastir.
 
 
+**The purpose of this documentation is to collect all the Tunisian projects and innovations to fight the COVID19 in one place.**
+
+**Stay Safe!**
+
+
 
 <hr />

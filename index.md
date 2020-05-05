@@ -8,34 +8,29 @@
 layout: page
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KehVifwXcSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr />
+
+
 
   <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/brochure.JPG">
 
+
 # What?
 <hr />
-It is one of the first urgent actions to combat the spread of the virus.
-The request was made, first, by the medical profession and then relayed by the public authorities.
-
+The Intubation box is a reusable personal protective equipment (PPE).
 
 
 
 
 # Why?
 <hr />
-Visor masks are useful for medical personnel and also for all service agents likely to be confronted with a risk of contamination (cleaning agents, firefighters, etc.)
+It can be used to protect healthcare workers when intubating Covid-19 patients.
 
 
 # How?
 <hr />
-In a first phase, the group in charge of this project carried out the design and manufacture of visor masks by laser cutting (for a good rate compared to 3d printing - Manufacturing time: 2 minutes) and using plates of plexiglass.
+The Intubation Box works by sitting over the head and shoulders of a Covid-19 patient as they are intubated by a healthcare provider. The acrylic box acts as a protective shield between the patient and medical provider, with the intent of reducing the healthcare provider’s exposure to Coronavirus (COVID-19).
 
-<div class="column">
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser1.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser2.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser3.jpg" style="width:225px;height:300px;" />
-</div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="http://tobiasartz.wpengine.com/wp-content/uploads/2020/03/Intubation_Box.pdf"><img src="https://intubationbox.com/wp-content/uploads/2020/03/make-your-own-intubation-box.jpg" alt="Make your own open source intubation box design plan" class="wp-image-56" srcset="https://intubationbox.com/wp-content/uploads/2020/03/make-your-own-intubation-box.jpg 800w, https://intubationbox.com/wp-content/uploads/2020/03/make-your-own-intubation-box-300x106.jpg 300w, https://intubationbox.com/wp-content/uploads/2020/03/make-your-own-intubation-box-768x272.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Make your own open source intubation box design plan</figcaption></figure></div>
 
 In order to increase the production rate of these visor masks, a reflection was carried out to choose the optimal manufacturing process. The team in charge of this project opted for plastic injection manufacturing. We are aiming to manufacture 10,000 additional pieces. A first injection mold was designed and manufactured by the means of ENIM.
 
